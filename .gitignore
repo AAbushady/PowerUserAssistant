@@ -234,8 +234,5 @@ misc/
 # Ignore litellm_uuid.txt
 litellm_uuid.txt
 
-# Ignore the config.yaml file.
-interpreter/config.yaml
-
 # Ignore idea directory
 .idea/
